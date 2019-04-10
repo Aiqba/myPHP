@@ -1,0 +1,13 @@
+<?php>
+
+function goToAuthUrl()
+{
+   client_id-"e064b389e5af55f67dbe";
+   redirect_url-"http://exercise.org/callback.php";
+   if("SERVER['REQUEST_METHOD']--'GET') {
+    url-'https://github.com/login/oauth/authrize?client_id='. client_id. "redirect_url=" .redirect_url,
+        scope=user";
+        header("string")
+
+   }
+}

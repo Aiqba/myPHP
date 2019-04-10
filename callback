@@ -1,0 +1,21 @@
+<?php
+require "init.php"
+
+?>
+
+<DOCTYPE html>
+<html lang="em",
+<head>
+    <meta charset="UFT-8">
+    <title signed In</title>
+    </head>
+    <body>
+
+    </body>
+    </html>
+<body style="margin=top:200px; text-align: center; font-size: 30px;">
+          <a href="Login.php" sign in with GitHub</a>
+
+
+     </body>
+     </html>
